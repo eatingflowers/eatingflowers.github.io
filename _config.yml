@@ -1,6 +1,5 @@
 # Site settings
-title: Greg Dutcher's Blog
-email: greg.dutcher@gmail.com
+title: Syntactical
 description: > # this means to ignore newlines until "baseurl:"
   Greg Dutcher's blog on art and technology
 baseurl: "" # the subpath of your site, e.g. /blog/
