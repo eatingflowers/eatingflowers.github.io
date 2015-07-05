@@ -4,8 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![](/assets/img/me.jpg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a software developer and musician living in Brooklyn, New York.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I record under the name [Eating Flowers](http://eatingflowers.bandcamp.com).
+
+[Bandcamp](http://eatingflowers.bandcamp.com)
+
+[SoundCloud](http://soundcloud.com/eatingflowers)
+
+[Tumblr](http://syntactical.org)
+
+[Github](https://github.com/syntactical)
+
+[Website](http://syntactical.github.io)
