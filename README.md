@@ -1,1 +1,1 @@
-# gregdutcher.github.io
+Repository for blog
