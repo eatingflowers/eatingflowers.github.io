@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Max patch to control tempo of Korg volca beats
-categories: Korg, Analog, Drum Machine, Max, Hardware
+categories: [Korg, Analog, Drum Machine, Max, Hardware]
 ---
 
 I just got a Korg Volca Beats analog drum machine, and it's great.  It's all analog and cost less than $200.  (I also bought an Akai Rhythm Wolf, another analog drum machine in the same price range, but I sent it back because it didn't do nearly as much as the Korg did and was more expensive.)  It's really fun to play with and you can get totally absorbed in it for hours.  Here it is:
