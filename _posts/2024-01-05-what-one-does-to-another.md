@@ -8,7 +8,7 @@ Eating Flowers - What One Does To Another (DUSK004)
 
 ![](/assets/img/Cover.png)
 
-The pale dusky purple in the northeastern sky at twilight, the shadow of the earth itself against the sky — this is for you.
+The pale dusky purple in the northeastern sky at twilight, the shadow of the earth itself against the sky: this is for you.
 
 Back in 2015, when my first album [God Was A White-Tailed Deer](https://eatingflowers.bandcamp.com/album/god-was-a-white-tailed-deer) came out, I put together a mix and interview for a now-defunct Italian music website SoundBound.  The interview was never published and neither was the mix, so I've decided to share it here.  The mix is a love note to ambient music cassette tape culture, mostly the synth-heavy explorations of Emeralds, Oneohtrix Point Never et al. around 2006-2010.
 
