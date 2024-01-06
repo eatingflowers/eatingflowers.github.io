@@ -12,7 +12,7 @@ The pale dusky purple in the northeastern sky at twilight, the shadow of the ear
 
 Back in 2015, when my first album God Was A White-Tailed Deer came out, I put together a mix and interview for a now-defunct Italian music website SoundBound.  The interview was never published and neither was the mix, so I've decided to share it here.  The mix is a love note to ambient music cassette tape culture, mostly the synth-heavy explorations of Emeralds, Oneohtrix Point Never et al. around 2006-2010.
 
-The absolutely sublime photo is by Helena Costa. See more of her work [here](https://www.instagram.com/helenacosta.g/).
+The absolutely sublime photo is by Helena Costa. See more of her work [here](https://www.instagram.com/helenacosta.g/).  The photo was taken at a deer park in portugal and no animals were harmed. :)
 
 I think this is the last release I'll do as Eating Flowers, and the last on Permanent Dusk.  It's time for some new colors.
 
