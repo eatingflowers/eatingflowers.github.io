@@ -17,3 +17,26 @@ The absolutely sublime photo is by Helena Costa. See more of her work [here](htt
 I think this is the last release I'll do as Eating Flowers, and the last on Permanent Dusk.  It's time for some new colors.
 
 [Enjoy!](https://drive.google.com/drive/folders/1s3mHVEv__NtVA6V4-7cVR4r_QSkRQoEh?usp=drive_link)
+
+
+Side A
+Skyramps - Flight Simulator
+Burning Star Core - Mysteries of the Organ
+Shinichi Atobe - Ship-Scope
+Awkward Squad MI - Live at the Giant’s Drink (Excerpt)
+Emuul. - Naming The Quiet (Eating Flowers Texture Ver.)
+Jefre Cantu-Ledesma - The Erie Lake (Eating Flowers Texture Ver.)
+Celer - Culling The Past from Unsentient Weeks (Excerpt)
+Emuul. - Three Dots (Night Visions Part 1)
+
+Side B
+Emeralds - Nereus (Spirits Over The Lake)
+MOS Architects - The Romance Of Systems*
+Oneohtrix Point Never - Banlieue in Three Sectors
+Medical Lake - Easy Moves Alright (Side A) (Excerpt)
+Stellar Om Source - Harvest
+Dolphins Into The Future - Ho’okena Halawai
+Pale Blue Sky - Interlude (Drift)
+Jefre Cantu-Ledesma - White-Tailed Deer
+
+* This is believed to be a mix of Laurie Spiegel - Appalachian Grove II and Brian Eno - Unfamiliar Wind (Leeks Hills) with added field recordings.
