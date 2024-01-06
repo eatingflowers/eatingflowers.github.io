@@ -6,14 +6,4 @@ permalink: /about/
 
 ![](/assets/img/me.jpg)
 
-I record under the name [Eating Flowers](http://eatingflowers.bandcamp.com).
-
-[Bandcamp](http://eatingflowers.bandcamp.com)
-
-[SoundCloud](http://soundcloud.com/eatingflowers)
-
-[Tumblr](http://syntactical.org)
-
-[Github](https://github.com/syntactical)
-
-[Website](http://syntactical.github.io)
+I am a musician and software developer living in New York. I record under the name [Eating Flowers](http://eatingflowers.bandcamp.com) and [Stimulant Era](https://eatingflowers.bandcamp.com/album/divination-of-the-ram).
